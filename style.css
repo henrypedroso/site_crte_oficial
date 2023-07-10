@@ -23,3 +23,28 @@ width: 20%;
     padding: 23px 0;
     font-size: 24px;
 }
+
+.CRTE-imagem {
+    width: 30%;
+}
+
+.CRTE {
+    background-image: linear-gradient(#238E21, #153b83);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.CRTE-div-conteudo {
+    width: 35%;
+}
+
+.CRTE-titulo{
+    padding: 10px 0;
+}
+
+.CRTE-texto-um {
+    padding: 24px 0;
+}
