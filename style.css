@@ -48,3 +48,19 @@ width: 20%;
 .CRTE-texto-um {
     padding: 24px 0;
 }
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.imagem-colaborador{
+    width: 120px;
+}
+
+.colaborador-icone{
+    width: 24px;
+}
+
+.colaborador-div {
+    text-align: center;
+}
