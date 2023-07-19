@@ -64,3 +64,13 @@ body {
 .colaborador-div {
     text-align: center;
 }
+
+.profissionais-titulo {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.profissionais-todos {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
